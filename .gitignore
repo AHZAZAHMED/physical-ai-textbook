@@ -1,0 +1,31 @@
+# See https://docusaurus.io/docs/deployment
+
+# Docusaurus 2
+.docusaurus/
+build/
+
+# Docusaurus 1
+.cache/
+lib/
+static/img/
+
+# Node
+node_modules/
+
+# Yarn
+.yarn/
+.pnp.*
+
+# IDE
+.idea/
+.vscode/
+
+# Misc
+.DS_Store
+*.log
+
+# Python
+.venv/
+
+# Gemini
+.gemini/
